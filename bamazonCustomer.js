@@ -66,3 +66,5 @@ function userSearch() {
             }
         })
     }
+
+    //getting error where res is not defined.
